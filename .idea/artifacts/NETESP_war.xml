@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="NETESP:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="netesp.war">
+      <element id="artifact" artifact-name="NETESP:war exploded" />
+    </root>
+  </artifact>
+</component>
